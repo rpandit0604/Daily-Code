@@ -1,0 +1,12 @@
+#sum of two no.
+class Sum:
+    def add(self,a: int,b: int,):
+        print("the sum of a and b is: ")
+        c=a+b
+        return c
+object=Sum()
+#s: int =object.add(5,10)
+#print(s)
+print(object.add(5,10))
+
+
